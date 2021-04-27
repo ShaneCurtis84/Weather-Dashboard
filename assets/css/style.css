@@ -1,0 +1,78 @@
+
+.navbar {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(0,40,142);
+    background: linear-gradient(90deg, rgba(0,40,142,1) 34%, rgba(50,3,61,1) 55%);
+    height: 8vh;
+    
+}
+
+.is-1 {
+
+    color: white;
+}
+
+
+
+#search-section {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    margin-top: 20px;
+    margin-left: 90px;
+    
+}
+
+
+.input {
+
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+
+.button {
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+    
+
+#past-search-list {
+    padding-top:30px;
+
+}
+
+
+#current-weather {
+
+    padding-left :20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+.city-section {
+
+    display: inline-block;
+    
+    
+}
+
+
+#future-weather {
+
+    padding-top: 40px;
+    
+}
+
+
+.card {
+
+    background-color: aqua;
+}
