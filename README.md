@@ -16,5 +16,5 @@ A Weather Dashboard that retreives weather data from cities utilising the OpenWe
 
 Site is live on Github Pages https://shanecurtis84.github.io/Weather-Dashboard/
 
-   ![Sceenshot 1](https://github.com/ShaneCurtis84/Weather-Dashboard/blob/main/assets/images/screenshot1.PNG)
+   ![Screenshot 1](https://github.com/ShaneCurtis84/Weather-Dashboard/blob/main/assets/images/screenshot1.PNG)
 
